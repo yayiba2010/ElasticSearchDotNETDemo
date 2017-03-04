@@ -1,0 +1,17 @@
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\ESFullIndex.ElasticSearchHandler.csprojResolveAssemblyReference.cache
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.dll
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Lucene.Net.dll
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.pdb
+E:\学习\编程\我的项目\C#操作ES实例\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.xml
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\bin\Debug\Lucene.Net.dll
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.pdb
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.xml
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\obj\Debug\ESFullIndex.ElasticSearchHandler.csprojResolveAssemblyReference.cache
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\学习\编程\我的项目\C#操作ES实例\ESFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb

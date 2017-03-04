@@ -1,0 +1,12 @@
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\GoBestSoft.JRBPortal.LucenceHandler.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\GoBestSoft.JRBPortal.LucenceHandler.pdb
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\Lucene.Net.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\Newtonsoft.Json.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\PanGu.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\PanGu.HighLight.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\PanGu.Lucene.Analyzer.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\bin\Debug\PlainElastic.Net.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\obj\Debug\GoBestSoft.JRBPortal.LucenceHandler.csprojResolveAssemblyReference.cache
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\obj\Debug\GoBestSoft.JRBPortal.LucenceHandler.dll
+E:\项目库\上海金融办\门户网站\源代码\金融办\GoBestSoft.JRBPortal.LucenceHandler\obj\Debug\GoBestSoft.JRBPortal.LucenceHandler.pdb

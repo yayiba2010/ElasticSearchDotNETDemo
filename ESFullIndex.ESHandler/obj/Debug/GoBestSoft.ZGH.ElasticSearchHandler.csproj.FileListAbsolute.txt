@@ -1,0 +1,8 @@
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.csprojResolveAssemblyReference.cache
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.dll
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\obj\Debug\GoBestSoft.ZGH.ElasticSearchHandler.pdb
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.dll
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.pdb
+E:\项目库\建朗\总工会平台\全文索引\GoBestSoft.ZGHFullIndex.ESHandler\bin\Debug\Newtonsoft.Json.xml
